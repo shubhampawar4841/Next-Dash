@@ -1,4 +1,3 @@
-impor
 
 
 export default async function CardWrapper() {
